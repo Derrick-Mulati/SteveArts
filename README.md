@@ -1,3 +1,3 @@
 # SteveArts
 
-Website developed for stevearts.co.ke
+Website developed for stevearts
